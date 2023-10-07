@@ -1,0 +1,29 @@
+{
+  "all": [
+    {
+      "name": "Quick and Easy Green Beans",
+      "ingredients": "trimmed green beans (12 ounces), water (1/4 cup), butter (1 tbsp.), salt (1/4 tsp.), black pepper (1/4 tsp.)",
+      "id": 1
+    },
+    {
+      "name": "Simple Miso Soup",
+      "ingredients": "water (3 cups), instant dashi granules (1 tsp.), miso paste (1 tbsp.), wakame seaweed (2 tbsp.), tofu (1/2 cup), green onions (3 tbsp.)",
+      "id": 2
+    },
+    {
+      "name": "Olive Oil and Garlic Sauce",
+      "ingredients": "olive oil (1/2 cup), garlic (6 cloves), salt, ground black pepper, minced fresh parsley (1/4 cup)",
+      "id": 3
+    },
+    {
+      "name": "Spaghetti Pasta Carbonara",
+      "ingredients": "olive oil (1 tbsp.), diced bacon (1/2 pound), minced garlic (1-2 cloves), eggs (3-4), grated parmesan (1 cup), spaghetti pasta (1 pound), salt, black pepper",
+      "id": 4
+    },
+    {
+      "name": "Simplest Fruit Salad",
+      "ingredients": "yoghurt (1 cup), honey (1 tbsp.), oranges (2), bananas (2), apple (1), poppy seeds (1 tsp.), sliced almonds (4 tbsp.)",
+      "id": 5
+    }
+  ]
+}

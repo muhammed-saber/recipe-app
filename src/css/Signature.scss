@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=VT323|Waiting+for+the+Sunrise');
+
+$dark-ocean: #3B8686;
+
+@mixin rotate($degree) {
+  -webkit-transform: rotate($degree);
+  -moz-transform: rotate($degree);
+  -ms-transform: rotate($degree);
+  transform: rotate($degree);
+}
+
+.signature {
+  position: fixed;
+  right: 0.4em;
+  bottom: 0.1em;
+  font-family: 'VT323';
+  font-size: 14px;
+  color: rgba(grey, .35);
+  a {
+    text-decoration: none;
+    outline: none;
+    color: rgba(lighten($dark-ocean, 10%), .4);
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .signature {
+    right: -1.5em;
+    bottom: 3em;
+    @include rotate(-90deg);
+  }
+}
